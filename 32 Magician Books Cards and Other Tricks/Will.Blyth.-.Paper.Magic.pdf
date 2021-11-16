@@ -1,0 +1,133 @@
+<html>
+<head><title>RapidShare Webhosting + Webspace</title>
+<meta name="keywords" content="hosting, webhosting, webspace, kostenlos, webserver">
+<meta name="description" content="RapidShare - Webhosting + Webspace">
+<Style>
+body {
+ font-family: Verdana;
+ font-size: 14px;
+}
+table {
+ font-family: Verdana;
+ font-size: 14px;
+}
+</Style>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" alink="#555555" vlink="#555555" link="#555555" topmargin=0 leftmargin=0 bottommargin=0 rightmargin=0>
+<script>if (self != top) { top.location.replace(window.location.href) }</script>
+
+
+<Table width=100% height=100% border=0 cellspacing=0 cellpadding=0>
+<TR><TD nowrap colspan=3 height=40 align=center valign=top bgcolor=#E2E6ED></TD></TR>
+
+<TR>
+<TD colspan="2" width="66%" nowrap height=138 valign=top align=right style="background-image:url(http://images.rapidforum.com/rapidshare/logobg.jpg); background-repeat:repeat-x;"><IMG src="http://images.rapidforum.com/rapidshare/logo.jpg" width=600 height=138 border=0><BR clear=right></TD>
+<TD valign=top width="33%" align=center style="background-image:url(http://images.rapidforum.com/rapidshare/logobg2.jpg);"></TD>
+</TR>
+
+<TR><TD colspan=3 height=100% align=center valign=top bgcolor=#E2E6ED>
+<BR><BR>
+
+<!-- Inhalt !-->
+<Table width=90% height=90% border=0 cellspacing=0 cellpadding=0>
+<TR><TD nowrap colspan=5 height=1 bgcolor=#000000></TD></TR>
+
+<TR>
+<TD nowrap width=1 bgcolor=#000000></TD>
+<TD nowrap width=5 bgcolor=#FCFEFE></TD>
+<TD width=100% height=100% valign=top align=center bgcolor=#FCFEFE>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td align="right">
+<a href="http://rapidshare.de/en/premium.html"><b>PREMIUM-Downloads</b></a> &nbsp;&nbsp;&nbsp;
+<a href="http://rapidshare.de/en/banners.html">Banners</a> &nbsp;&nbsp;&nbsp;
+<a href="http://rapidshare.de/en/faq.html">Frequently Asked Questions (FAQ)</a> &nbsp;&nbsp;&nbsp;
+<a href="http://rapidshare.de/en/impressum.html">Imprint</a><br>
+External: &nbsp;&nbsp;&nbsp; <a href="http://rapidtec.de" target="_blank">RapidTec</a> &nbsp;&nbsp;&nbsp;
+<a href="http://www.rapidforum.com" target="_blank">Rapid-Forum</a> &nbsp;&nbsp;&nbsp;
+<a href="http://www.rapidchat.de" target="_blank">Rapid-Chat</a><br>
+<b><a href="http://rapidshare.de/en/forgotpw.html">Forgot Premium-password?</a></b>
+</td></tr></table>
+
+<p><h2>Ad-financed 1-Click Webhosting + Webspace</h2></p>
+
+
+<p>RapidShare is the <b><font color="red">biggest (3.000.000 files online) and fastest (7100 MBit/s(!) up/down) 1-Click web-hosting service world-wide!</font></b>
+No need to register, super-fast, super-easy and completely for free. Keep simple tasks simple! Millions of users just can't be wrong.
+Just select a file and upload it. You will get your download-link and a secret delete-link immediately. More infos in our FAQ.</p>
+
+<script>
+f = 0;
+function uploadrefresh() { if(f++<2000){document.uploadimage.src="http://dl4.rapidshare.de/cgi-bin/uploadimage.cgi?uploadid=84967349855904698766550461044&f="+f} }
+setInterval("uploadrefresh()", 10000);
+</script>
+<p><table><tr><td>
+Your Upload-progress: <img name="uploadimage" src="http://dl4.rapidshare.de/cgi-bin/uploadimage.cgi?uploadid=84967349855904698766550461044"><br>
+<form method="post" action="http://ul4.rapidshare.de/cgi-bin/upload.cgi" enctype="multipart/form-data" onsubmit="this.u.value='Please wait ...';this.u.disabled=true">
+<input type="hidden" name="somedata" value="_rsuploadid84967349855904698766550461044"> <input type="file" size="48" name="filecontent"> <input type="submit" name="u" value="Upload!"></form>
+</td></tr></table></p>
+
+
+<p><table><tr><td>
+<b>Upload-limit:</b> <b><font color="red">Unlimited!</font></b> (Max. <b><u>50 MB</u></b> per file! Split-archives allowed!)<br>                
+<b>Download-limit:</b> <b><font color="red">Unlimited!</font></b> (Some files have more than 100.000 downloads!)<br>                
+<b>RapidShare Happy-Hours:</b> Normal time. Its 06:38 CET. (See FAQ!)
+</td></tr></table></p>
+
+<p><b>Get your own <a href="http://rapidshare.de/en/premium.html">PREMIUM-ACCOUNT</a> to use ALL advantages of RapidShare!<br>
+RapidShare, one of the world's biggest file-hosters with over 25 Terabytes of hard-drive capacity!</b></p>
+
+<p><table><tr><td>
+<script type="text/javascript"><!--
+google_ad_client = "pub-4001973908297822";
+google_alternate_color = "FFFFFF";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_format = "336x280_as";
+google_ad_channel ="2434653573";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "CC0000";
+google_color_url = "008000";
+google_color_text = "6F6F6F";
+//--></script>
+
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td><td>
+<script type="text/javascript"><!--
+google_ad_client = "pub-4001973908297822";
+google_alternate_color = "FFFFFF";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_format = "336x280_as";
+google_ad_channel ="2434653573";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "CC0000";
+google_color_url = "008000";
+google_color_text = "6F6F6F";
+//--></script>
+
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td></tr></table></p>
+
+<p><hr><b>Download-Ticket nicht bereit. JavaScript Fehler?</b></p>
+
+</TD>
+<TD nowrap width=5 bgcolor=#FCFEFE></TD>
+<TD nowrap width=1 bgcolor=#000000></TD>
+</TR>
+
+<TR><TD nowrap colspan=5 height=1 bgcolor=#000000></TD></TR>
+</Table>
+
+<BR><BR>
+<!--Inhalt Ende 1-->
+</TD></TR></Table>
+
+</body></html>
